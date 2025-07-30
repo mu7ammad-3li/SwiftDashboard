@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "bellaegypt-ca3bf"
+  },
+  "targets": {
+    "bellaegypt-ca3bf": {
+      "hosting": {
+        "admin-panel": [
+          "admin-a3b9b"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
